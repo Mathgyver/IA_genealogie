@@ -1,2 +1,2 @@
-# IA_g-n-alogie
+# IA_genealogie
 outil de recherche LLM pour sources manquantes
