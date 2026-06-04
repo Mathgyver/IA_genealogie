@@ -1,0 +1,23 @@
+# Environnement virtuel (Python)
+.venv/
+venv/
+ENV/
+
+# Résidus de compilation de PyInstaller
+build/
+dist/
+*.spec
+
+# Caches Python
+**/__pycache__/
+*.pyc
+
+# Fichiers de données personnels (GEDCOM et Exports)
+*.ged
+*.csv
+
+# Fichiers système ou d'éditeurs
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
